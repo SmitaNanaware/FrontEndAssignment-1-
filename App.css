@@ -1,0 +1,42 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+button.add-row-btn {
+  padding: 10px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button.add-row-btn:hover {
+  background-color: #45a049;
+}
+
+.add-item {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.add-item input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.add-item button {
+  padding: 5px 10px;
+}
