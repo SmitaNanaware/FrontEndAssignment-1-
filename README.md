@@ -1,3 +1,7 @@
+## 📸 Screenshots
+![image](https://github.com/SmitaNanaware/FrontEndAssignment-1-/blob/main/Screenshot2.png?raw=true)
+![image](https://github.com/SmitaNanaware/FrontEndAssignment-1-/blob/main/Screenshot3.png?raw=true)
+
 ## Step-by-Step Guide to Set Up and Run the Project with React and Vite
 
 ### 1. **Create a React Project with Vite**
@@ -46,10 +50,6 @@ Once this command is executed, Vite will start the development server. By defaul
 
 Open your web browser and go to `http://localhost:5173` to view the running application.
 
----
-## 📸 Screenshots
-![image](https://github.com/SmitaNanaware/FrontEndAssignment-1-/blob/main/Screenshot2.png?raw=true)
-![image](https://github.com/SmitaNanaware/FrontEndAssignment-1-/blob/main/Screenshot3.png?raw=true)
 ## Key Components of the Project
 
 ### 1. **App.jsx**
