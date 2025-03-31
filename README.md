@@ -48,8 +48,7 @@ Open your web browser and go to `http://localhost:5173` to view the running appl
 
 ---
 ## 📸 Screenshots
-![image](https://github.com/SmitaNanaware/ZeotapAssignment1/blob/main/Screenshot%20Google%20Sheet.png?raw=true)
-
+![image](https://github.com/SmitaNanaware/FrontEndAssignment-1-/blob/main/Screenshot2.png?raw=true)
 
 ## Key Components of the Project
 
