@@ -47,6 +47,9 @@ Once this command is executed, Vite will start the development server. By defaul
 Open your web browser and go to `http://localhost:5173` to view the running application.
 
 ---
+## 📸 Screenshots
+![image](https://github.com/SmitaNanaware/ZeotapAssignment1/blob/main/Screenshot%20Google%20Sheet.png?raw=true)
+
 
 ## Key Components of the Project
 
